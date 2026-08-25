@@ -2,6 +2,6 @@
   "_instructies": "Dit is de complete lijst van podcasts die de site volgt. Om een podcast toe te voegen: kopieer een blokje, vul naam/slug/feed_url in. Om een podcast te stoppen: zet active op false (episodes blijven bestaan, er komen alleen geen nieuwe bij). Na het aanpassen: node sync-podcasts.mjs (lokaal) of roep /api/admin/sync-podcasts aan (met CRON_SECRET).",
 
   "podcasts": [
-    { "name": "VUL-HIER-DE-ECHTE-NAAM-IN", "slug": "vul-hier-de-slug-in", "feed_url": "https://vul-hier-de-rss-feed-url-in", "active": true }
+    { "name": "Ter Zake", "slug": "ter-zake", "feed_url": "https://rss.buzzsprout.com/1926012.rss", "active": true }
   ]
 }

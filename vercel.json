@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron/import-episodes",
+      "schedule": "0 6 * * *"
+    }
+  ]
+}
